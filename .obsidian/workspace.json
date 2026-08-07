@@ -181,5 +181,8 @@
     }
   },
   "active": "661a0ec5a89e88fb",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "requirements.txt",
+    "prospeccao_whatsapp.py"
+  ]
 }
